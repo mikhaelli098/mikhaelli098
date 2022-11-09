@@ -1,0 +1,4 @@
+- 👋 olá meu nome é @mikhaelli098
+- 👍 meu email de contato é hallana.almeida@escola.pr.gov.br
+- 👀 eu estou interessada em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar reentimente a linguagem de javascript e scratch
